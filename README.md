@@ -12,7 +12,7 @@ This is a simple Movie App that allows users to browse and search for movies. It
 
 ## Demo
 
-[Link to Live Demo](https://your-demo-link.com)
+[Link to Live Demo](http://127.0.0.1:5500/index.html)
 
 ## Technologies Used
 
@@ -41,4 +41,9 @@ To make requests to the TMDB API, you need to obtain an API key. Follow these st
 const APIURL = "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=YOUR_API_KEY&page=1";
 const SEARCHAPI = "https://api.themoviedb.org/3/search/movie?&api_key=YOUR_API_KEY&query=";
 
-Screenshots:
+##Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+##License
+Feel free to modify the template according to your specific project details and add any additional sections or information that you think are necessary.
+
